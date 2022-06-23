@@ -74,7 +74,7 @@ Compared to the logistic regression with balanced resampling, the balanced rando
 
 ### Easy Ensemble Classifier
 Compared to all models, the easy ensemble model results in best preformances in ters of balanced accuracy report
-![easy](https://github.com/SiedHM/Credit_Risk_Analysis/blob/main/images/balanced.png)
+![easy](https://github.com/SiedHM/Credit_Risk_Analysis/blob/main/images/easy.png))
 
 # Conclusion
 From the above results, the SMOTE random sampling performs better and the results of the ensemble models are better than logistic regression results.  
